@@ -1,4 +1,4 @@
-
+<img align= "right" src=
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <h1 align="center">Hi 👋, I'm Sakshi Panwar</h1>
 <h3 align="center">A girl trying to follow her dream.</h3>
