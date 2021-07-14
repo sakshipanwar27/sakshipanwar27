@@ -8,12 +8,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshipanwar27" alt="sakshipanwar27" /></a> </p>
 
 - 🌱 I’m currently learning **PYTHON , JAVA, WEB DEVELOPMENT**
-
+- 🌱 I’m currently working on a project BOOKUB**
 - 👯 I’m looking to collaborate on **FRONT END DEVELOPMENT**
-
-- 💬 Ask me about **PYTHON & JAVA**
-
-- 📫 How to reach me **sakshi.2023mca1108@kiet.edu**
+-  💬 Ask me about **PYTHON & JAVA**
+-  📫 How to reach me **sakshi.2023mca1108@kiet.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
